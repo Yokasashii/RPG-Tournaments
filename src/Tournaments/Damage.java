@@ -1,7 +1,7 @@
-package RPG;
+package Tournaments;
 
-public class Healer extends Player {
-    public Healer(int damage, int hp, String name) {
+public class Damage extends Player {
+    public Damage(int damage, int hp, String name) {
         super(damage, hp, name);
     }
 

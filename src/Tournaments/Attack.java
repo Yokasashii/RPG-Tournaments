@@ -1,4 +1,4 @@
-package RPG;
+package Tournaments;
 
 public interface Attack {
     public void hit(int criticalChance, int criticalDamage, Player cible);

@@ -1,4 +1,4 @@
-package RPG;
+package Tournaments;
 
 public class Tank extends Player{
     public Tank(int damage, int hp, String name) {

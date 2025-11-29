@@ -1,4 +1,4 @@
-package RPG;
+package Tournaments;
 
 abstract class Player implements Attack {
     private String name;
