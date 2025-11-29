@@ -7,5 +7,4 @@ void main() {
     Healer Mona = new Healer(5, 85, "Mona");
     Tank Torro = new Tank(15,125,"Torro");
 
-    Yohi.hit(25, Yohi.getDamage(), Mona);
 }
